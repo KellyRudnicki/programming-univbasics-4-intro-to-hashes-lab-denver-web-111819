@@ -1,10 +1,11 @@
 def new_hash
- {}
+ hash = {}
 end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
-  {oma: Grandma}
+  hash = {oma: "Grandma", opa:"Grandpa"}
+  return hash
 end
 
 def pioneer
