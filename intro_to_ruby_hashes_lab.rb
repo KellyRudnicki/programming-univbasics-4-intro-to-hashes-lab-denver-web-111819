@@ -3,12 +3,13 @@ def new_hash
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
   hash = {oma: "Grandma", opa:"Grandpa"}
   return hash
 end
 
 def pioneer
+  hash = {:name => "Grace Hopper"}
+  return hash
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
 end
 
