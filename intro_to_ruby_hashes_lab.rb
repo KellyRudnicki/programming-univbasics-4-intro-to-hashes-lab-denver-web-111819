@@ -4,7 +4,8 @@ end
 
 def my_hash
   my_hash = {
-    
+    oma : Grandma Ann
+    opa : Grandoa Charlie
   }# return a valid hash with any key/value pair of your choice
 end
 
