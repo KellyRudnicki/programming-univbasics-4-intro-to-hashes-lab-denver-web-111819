@@ -5,7 +5,8 @@ end
 def my_hash
   # return a valid hash with any key/value pair of your choice
   second_hash = {
-    
+    oma: "Grandma Ann"
+    opa: "Grandpa Charlie"
   }
 end
 
